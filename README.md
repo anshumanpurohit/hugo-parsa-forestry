@@ -17,7 +17,7 @@ Import to Forestry in one single click!
 ![Forestry user interface](static/images/hugo-parsa-forestry.jpg)
 
 This project has been pre-configured to work with [Forestry](https://forestry.io), just import your repository ✨. \
-Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
+Any changes you make will be commited back to the repo, and deployed if you're using Netlify. 
 
 ## Customization
 
