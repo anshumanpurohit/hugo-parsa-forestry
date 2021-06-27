@@ -45,16 +45,16 @@ params:
   description: This is meta description
   preloader: true
   search: true
-  author: Themefisher
+  author: John Gedeon
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
-  mobile: "+90 000 333 22"
-  email: exmaple@ymail.com
+  mobile: "+1 720 432 3071"
+  email: jgconstructionservicescolorado@gmail.com
   address: 6 rip carl Avenue CA 90733
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
+  copyright: Copyright &copy; 2020 [jg-constructions.com](jg-constructions.com)
   instafeed:
     enable: true
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
